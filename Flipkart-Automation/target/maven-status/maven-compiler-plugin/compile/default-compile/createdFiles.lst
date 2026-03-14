@@ -1,6 +1,0 @@
-com\flipkart\automation\base\BaseTest.class
-com\flipkart\automation\pages\HomePage.class
-com\flipkart\automation\pages\ProductPage.class
-com\flipkart\automation\tests\TestRun.class
-com\flipkart\automation\pages\SearchPage.class
-com\flipkart\automation\utils\ScreenshotUtil.class
